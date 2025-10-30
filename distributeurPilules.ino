@@ -139,7 +139,7 @@ PiluleState pilule = NoPilule;
 
 unsigned long ModeTimer;
 unsigned long RotateTimer;
-bool PrendrePiluleFlag = false;
+
 
 /* WIRING DIAGRAM:
 
