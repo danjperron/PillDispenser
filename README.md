@@ -12,10 +12,10 @@ Modification from the original code
    abbra: https://abra-electronics.com/opto-illumination/lcds-and-displays/character/lcd-mod-13-16x2-lcd-display-with-i2c-backpack-white-on-blue.html
 
 
-  Hold the Mode button 2 seconds to  enable timers modification. then Press the + or the  - minus to change them.
-  Press again the mode button to the next menu.
+  Hold the Mode button 2 seconds to  enable timers modification. then Press the + or the  - to change them.
+  Press again the mode button for the next menu.
 
-  On Normal mode if you hold the +and - buttons together for 2 seconds the tray will move up to the next position.
+  On Normal mode if you hold the + and - buttons together for 2 seconds the tray will move up to the next position.
 
   
   
