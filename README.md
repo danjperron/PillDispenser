@@ -7,7 +7,7 @@ Modification from the original code
 - Use the build-in RTC Alarm instead of constant variable.
 - Add three buttons to modify the RTC clock and alarms.
 - Use Adafruit debounce for the button.
-- Use a specific librray for the LCD Display.<br>
+- Use a specific library for the LCD Display.<br>
    https://github.com/fmalpartida/New-LiquidCrystal<br> 
    abbra: https://abra-electronics.com/opto-illumination/lcds-and-displays/character/lcd-mod-13-16x2-lcd-display-with-i2c-backpack-white-on-blue.html
 
